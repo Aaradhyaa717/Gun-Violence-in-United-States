@@ -6,3 +6,7 @@ dataset sourced from the gun violence. Each instance was grouped by its congress
 
 We then merged other data sets specifically, gun ownership rates in each state, population density, median income, and political voting history of each district to create linear regression models that look at past instances
 of gun violence and predict future areas at risk.
+
+
+## Programming Language: Python, SQL
+## Libraries: pandas, numoy, matplotlib, time, regex, scikit learn, statsmodel, geopandas, plotly, Beautiful Soup, Duckdb
