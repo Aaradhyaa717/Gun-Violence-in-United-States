@@ -9,4 +9,4 @@ of gun violence and predict future areas at risk.
 
 
 ## Programming Language: Python, SQL
-## Libraries: pandas, numoy, matplotlib, time, regex, scikit learn, statsmodel, geopandas, plotly, Beautiful Soup, Duckdb
+## Libraries: pandas, numpy, matplotlib, time, regex, scikit learn, statsmodel, geopandas, plotly, Beautiful Soup, Duckdb
